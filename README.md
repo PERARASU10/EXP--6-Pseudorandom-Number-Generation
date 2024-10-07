@@ -49,7 +49,8 @@ printf("\n\n\n\n*****Pseudorandom-Number-Generation*****\n\n\n\n");
 ```
 ## OUTPUT : -
 
-![image](https://github.com/user-attachments/assets/865dee4e-639d-4c6a-bd98-a62e5d9d0ad7)
+![image](https://github.com/user-attachments/assets/15ce7290-8d44-48b6-ba49-4f2efce1cd0b)
+
 
 
 

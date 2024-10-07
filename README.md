@@ -28,7 +28,7 @@ Step 7: End the program.
 #include <time.h>
 int main() 
 {
-printf("Pseudorandom-Number-Generation");
+printf("Pseudorandom-Number-Generation\n");
  int count, min, max;
  printf("Enter the number of random numbers to generate: ");
  scanf("%d", &count);
@@ -49,7 +49,8 @@ printf("Pseudorandom-Number-Generation");
 ```
 ## OUTPUT : -
 
-![image](https://github.com/user-attachments/assets/9ffa0727-2051-4ab0-a0b5-a7af2a112f0e)
+![image](https://github.com/user-attachments/assets/3915f5aa-b95b-4b50-af11-5f0351e53fa8)
+
 
 ## RESULT : -
 The program for Pseudorandom Number Generation is executed successfully.
